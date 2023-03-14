@@ -21,8 +21,30 @@ todo
     - 使用するAPI候補など
 - ワイヤーフレームでUIを各自作ってみる（次回MTGで共有）
 
-
 次回MTG 3/14 21:30～
 - 3/14に使用技術・要件の決定・ワイヤーフレームでUIのイメージを揃える
 
 3/14以降に技術スタックの構成図・クラス図などを作成
+
+## 3/14
+- ゲーム（Black Jack）のルール・流れを確認
+- Figmaによるプロトタイプを確認
+- VueかReactか -> Reactを採用する方向
+- deploy環境 -> Vercelを採用
+
+todo
+- クラス図・アクティビティ図を作成
+  - Black Jack -> propan
+  - Speed -> taisan
+  - War -> Amnis
+  - 参考：
+    - クラス図 PlantUml
+    - アクティビティ図 drawio/figma
+- Vercelの使い方について調べる
+- Linterは以下を試してどれを選ぶか（そもそもLinterを使う必要があるか）決定
+  - eslint
+  - prettier
+
+次回MTG　3/18 15:00〜
+- Sprint1（翌週末）のゴール・タスクを設定
+- TypeScriptの環境共有
