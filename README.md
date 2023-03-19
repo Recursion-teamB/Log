@@ -67,6 +67,9 @@ to do
   - Cordova
   - Vercel
   
+  ![image](https://user-images.githubusercontent.com/83019007/226162145-0b2bb02d-47d4-450c-9ba9-6928a3ab461a.png)
+
+  
 - 各ゲームのクラス図作成（class-diagramリポジトリに記載）
   - Black Jack
   - Speed
