@@ -56,3 +56,28 @@ todo
 to do
 - 3/19に1週目の進捗報告
 - 環境は不明点あればdiscodeで共有
+
+## 3/19進捗報告
+1週目で以下を実施
+- ゲーム概要把握
+- 技術選定
+  - TypeScript
+  - Phaser
+  - React
+  - Cordova
+  - Vercel
+  
+- 各ゲームのクラス図作成（class-diagramリポジトリに記載）
+  - Black Jack
+  - Speed
+  - Poker
+  - Texas Holdem
+  - War
+  - Rummy(未作成)
+ 
+- 3/25までの予定 （詳細はtrelloに記載）
+  - ロビー画面の開発
+  - Black Jackの開発
+  
+  
+  
