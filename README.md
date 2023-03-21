@@ -81,6 +81,11 @@ to do
 - 3/25までの予定 （詳細はtrelloに記載）
   - ロビー画面の開発
   - Black Jackの開発
-  
-  
-  
+
+# 3/21
+- Black JackのModel, ロビー画面のissue割り振り
+- Black Jackの開発期限を3/25 -> 3/28に延長
+
+次回MTG 3/25 15:00〜
+- Black JackのViewのisuue割り振りを行う
+
