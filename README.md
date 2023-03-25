@@ -95,5 +95,6 @@ to do
 アジェンダ
 
 - 各issueの消化状況
+- pull request/ mergeの進め方
 - Tableクラスの要否
 - Black JackのViewのisuue割り振り
