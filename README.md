@@ -89,3 +89,11 @@ to do
 次回MTG 3/25 15:00〜
 - Black JackのViewのisuue割り振りを行う
 
+
+# 3/25
+
+アジェンダ
+
+- 各issueの消化状況
+- Tableクラスの要否
+- Black JackのViewのisuue割り振り
