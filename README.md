@@ -124,5 +124,6 @@ to do
   - 環境の整備
     - Cordovaの環境を整えていない
     - ReactとPhaserの使い分けがわかっていない
+    - Vercelへのdeployに失敗した
     
 Feedback
