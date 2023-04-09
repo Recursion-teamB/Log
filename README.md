@@ -171,7 +171,7 @@ to do
 
 - MVCをどうやって実現するか
   - PhaserのcreateメソッドはViewとControllerの両方が存在しており、分離が難しい
-　　　　- ViewとControllerの分離は完全にできなくても良い
+  - ViewとControllerの分離は完全にできなくても良い
 
 
 feedback
