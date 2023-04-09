@@ -185,3 +185,4 @@ feedback
 - 苦しければDiscodeでAdminに呼びかける
 
 
+BlackJack作成後、War, Speed, Pokerの作成を各自ですすめてしまうのも手？
