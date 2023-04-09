@@ -159,3 +159,29 @@ to do
 - 難易度を調整できるようにする
 - ゲーム画面プルリク
 - 日曜日の進捗報告で困っていることを話すために、土曜日までに課題を共有する
+
+
+# 4/9
+
+現状の課題
+- BlackJackがまだ完成していない
+- ViewとControllerが未完成
+- Reactで最初作っていたが、Phaserで作り直す必要があり、手戻りが発生した
+
+
+- MVCをどうやって実現するか
+  - PhaserのcreateメソッドはViewとControllerの両方が存在しており、分離が難しい
+　　　　- ViewとControllerの分離は完全にできなくても良い
+
+
+feedback
+
+- BlackJackの完成後War作成
+- その後Speedを作成する
+- 余裕があればPokerを作成してほしい
+- ゲーム数よりはクオリティ（挙動が正しいこと）を優先してほしい
+- 最低限Web上で動くようにしてほしい
+- 余裕があればMobileやDesktopにデプロイする
+- 苦しければDiscodeでAdminに呼びかける
+
+
