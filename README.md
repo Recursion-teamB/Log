@@ -186,3 +186,21 @@ feedback
 
 
 BlackJack作成後、War, Speed, Pokerの作成を各自ですすめてしまうのも手？
+
+
+# 4/12
+
+- 進捗確認
+  - プレイヤーからの入力を受けた後ループする処理がBlocker
+  - 各画面UI統一した方が良いのではないか？
+
+- To do
+  - ゲームのループに関する仕様変更・ActionUI変更 -> Propan
+  - Description/Animation/勝敗判定 -> taisan
+  - プルリク確認 -> Amnis
+
+- 次回4/14 21:30~
+  - BlackJack完成
+  - 次ゲームの割り振り（ゲーム単位でタスク調整）
+
+
